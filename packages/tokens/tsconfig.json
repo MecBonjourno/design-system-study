@@ -1,0 +1,4 @@
+{
+  "extends": "@mecbonjourno-ui/ts-config/base.json",
+  "include": ["src"]
+}

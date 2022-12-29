@@ -1,0 +1,4 @@
+{
+  "extends": "@mecbonjourno-ui/ts-config/react.json",
+  "include": ["src"]
+}
