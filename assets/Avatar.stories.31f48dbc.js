@@ -1,0 +1,2 @@
+import{A as t}from"./index.e5f21e86.js";import"./index.5742c8a1.js";import"./iframe.525607bf.js";import"./index.96cb6ea9.js";import"./jsx-runtime.b0e71f9f.js";const c={title:"Data Display/Avatar",component:t,args:{src:"https://github.com/mecbonjourno.png",alt:"Guilherme Zago aka MecBonjourno"},argTypes:{src:{control:{type:"text"}}}},e={},m={args:{src:void 0}},n=["Primary","WithFallback"];export{e as Primary,m as WithFallback,n as __namedExportsOrder,c as default};
+//# sourceMappingURL=Avatar.stories.31f48dbc.js.map
